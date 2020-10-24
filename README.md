@@ -1,7 +1,11 @@
 # gshop
 
 > A Vue.js project
+<<<<<<< HEAD
 一个仿外卖app(client端)
+=======
+仿外卖程序(client端)
+>>>>>>> f93dfcc3224061508cc94bb842fff9e951b894ad
 
 ## Build Setup
 
