@@ -1,6 +1,7 @@
 # gshop
 
 > A Vue.js project
+一个仿外卖app(client端)
 
 ## Build Setup
 
